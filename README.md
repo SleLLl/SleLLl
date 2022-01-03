@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">I'm middle Full-stack developer in Finwin technologies.</h3>
+<h3 align="center">I'm Full-stack developer in Finwin technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slelll&label=Profile%20views&color=0e75b6&style=flat" alt="slelll" /> </p>
 

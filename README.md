@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
 <h3 align="center">I'm Full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slelll&label=Profile%20views&color=0e75b6&style=flat" alt="slelll" /> </p>
-
 - 📫 How to reach me **Slelllq@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=slelll&show_icons=true&locale=en&layout=compact" alt="slelll" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=slelll&show_icons=true&locale=en" alt="slelll" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=slelll&" alt="slelll" /></p>
- 
